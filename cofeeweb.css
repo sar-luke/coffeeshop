@@ -1,0 +1,282 @@
+.head{
+      margin-top: -8px;
+      margin-bottom: 0px;  
+      width: 1533px;
+      height: 250px;
+      background-color: rgb(43, 97, 79);
+      padding-right: 130px;
+     
+    
+}
+#i1{
+    text-align: center;
+    height: 178px;
+    width: 200px;
+    margin-left: 625px;
+    margin-right: 20px;
+    margin-top: 20px;
+
+}
+#t1{
+    font-size: larger;
+    margin-left: 0px;
+}
+.x1{ 
+    margin-left: 40px;
+    margin-top:-113px ;
+    color: rgb(131, 145, 145);
+    
+}
+.k1{
+    color: rgb(149, 155, 155);
+    font-style: italic;
+    font-family:'Inconsolata', monospace; 
+}
+.t2{
+    margin-left: 1308px;
+    margin-top: -106px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caveat&family=Chicle&family=Cookie&family=Dancing+Script&family=Inconsolata:wght@200;400&family=Indie+Flower&family=Inspiration&family=Montserrat:wght@100&family=Oswald:wght@200&family=PT+Serif&family=Pacifico&family=Passions+Conflict&family=Rock+3D&family=Rubik+Glitch&family=Rubik+Wet+Paint&family=Send+Flowers&family=Shadows+Into+Light&family=Smokum&family=Ubuntu+Mono&display=swap');
+.o1{
+    font-size: 2em;
+    font-family: 'Rubik Wet Paint', cursive;
+    margin-left: 423px;
+    height: 200px;
+    margin-bottom: 10px;
+
+    color: darkslategray;
+    text-size-adjust: 255px;
+    
+
+  
+}
+body{
+    background-color:rgb(179, 151, 115);
+}
+.o1 h6{
+    margin-left: 143px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#la{    
+    size-adjust: 250px;
+    max-width: 76px;
+    margin-left: 227px;
+    margin-bottom: 200px;
+}
+.ani{
+margin-left: 200px;
+display: block;
+padding: 3% 5% 5% 4%;
+margin: auto 0px auto;
+image-resolution: 50px;
+}
+
+#u1{
+    float: left;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    display: block;
+    width: 120px;
+    color: darkslategray;
+    text-align: center;
+    padding: 4px;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
+#u1 :hover{
+    float: left;
+    
+}
+.j1{
+    text-align: center;
+    font-size: xx-large;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: darkslategray; 
+   padding-top: -150px;
+}
+.j2{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslategray;
+    text-align: center;
+    margin-bottom: 200px;
+    margin: 0;
+    padding-bottom:2px;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.k3{
+    font-size: smaller;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:darkslategray; ;
+    font-family:  Georgia, 'Times New Roman', Times, serif;;
+    padding-top: -8px;
+    margin-bottom: 50px;
+}
+
+
+.l1{
+    text-align: center;
+    color:  darkslategray;;
+    width: 100%;
+   
+    display: flex;
+    justify-content: space-evenly;
+    float: left;
+    padding-top: 38px;
+    
+    
+}
+.l1 :hover{
+    color: black;
+}
+.u5{
+    margin-top: 175px;
+}
+.f1{
+    font-family: 'clearface_bold';
+    font-size: 1.35em;
+    color: #3a4044;
+    margin-bottom: 0.75em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    width: 100%;
+}
+.f2{
+    font-family: 'clearface_bold';
+    font-size: 1.35em;
+    color: #3a4044;
+    margin-bottom: 0.75em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    width: 100%;
+}
+.f3{
+    font-family: 'clearface_bold';
+    font-size: 1.35em;
+    color: #3a4044;
+    margin-bottom: 0.75em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    width: 100%;
+}
+.f4{
+    font-family: 'clearface_bold';
+    font-size: 1.35em;
+    color: #3a4044;
+    margin-bottom: 0.75em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    width: 100%;
+
+}
+.fu{
+   
+   display: flex;
+   justify-content: space-evenly;
+   float: left;
+   padding-top:33px ;
+   
+}
+#k5{
+    
+    text-align: center;
+    font-size: larger;
+    color:#3a4044; ;
+  
+} 
+    
+
+
+.parent{
+   
+    position: relative;
+    border: 0;
+    vertical-align: middle;
+    width: 100px;
+    align-items: center;
+
+}
+
+    
+
+  
+.p8{
+    padding-top: 150px;
+    margin-left: 700px;
+    width: 0px;
+}
+.ad5{
+    position: absolute;
+    left: 2%;
+    color: #3a4044;
+}
+.pa6{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.o5{
+    position: relative;
+    left: 70%;
+    bottom: 100%;
+    width: 0px;
+    height: 0px;
+    padding-bottom: 0px;
+}
+  #h5  {
+
+    padding-bottom: 190%;
+  }
+.jo{
+
+    margin-top: 196px;
+    padding: 150px;
+    width:1118px ;
+    text-align: center;
+} 
+
+.child
+{   
+    width: 28%;
+    height: 200px;
+}
+#h1{
+    margin-left: 838px;
+    margin-bottom: 100px;
+    width: 96%;
+    height: 230px;
+} 
+#h2{
+    margin-left: 435px;
+    margin-bottom: 99px;
+    width: 104%;
+    height: 230px;
+    
+}
+#h3{
+    margin-left: 849px;
+    margin-top: 6px;
+    width: 96%;
+    height: 230px;
+   
+}
+#h4{
+    margin-left: 433px;
+    margin-top: 24px;
+    width: 104%;
+    height: 230px;
+    
+}
+
+
+
+
